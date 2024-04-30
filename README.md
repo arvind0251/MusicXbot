@@ -17,11 +17,11 @@
 <h2 align="center">
 
 <h2 align="center">
-    ──「⛦𝐒𝐇𝐀𝐑𝐀 𝐗 𝐌𝐔𝐒𝐈𝐂⛦」──
+    ──「⛦𝐑𝐎𝐂𝐊𝐘 ♥ 𝐌𝐔𝐒𝐈𝐂⛦」──
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/31fbeb409fd0d71af142a.jpg">
+  <img src="https://telegra.ph/file/12f6c07ef99fb4b13910c.jpg">
 </p>
 
 <p align="center">
