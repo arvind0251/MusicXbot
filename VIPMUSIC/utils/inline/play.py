@@ -49,19 +49,19 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
     if 0 < umm <= 40:
         bar = "Ⓡ▰▱▱▱▱▱▱▱▰"
     elif 10 < umm < 20:
-        bar = "Ⓡ▰▱▱▱▱▱▱▱▰"
+        bar = "▰Ⓡ▱▱▱▱▱▱▱▰"
     elif 20 < umm < 30:
-        bar = "Ⓡ▰▱▱▱▱▱▱▱▰"
+        bar = "▰▱Ⓡ▱▱▱▱▱▱▰"
     elif 30 <= umm < 40:
-        bar = "Ⓡ▰▱▱▱▱▱▱▱▰"
+        bar = "▰▱▱Ⓡ▱▱▱▱▱▰"
     elif 40 <= umm < 50:
-        bar = "Ⓡ▰▱▱▱▱▱▱▱▰"
+        bar = "▰▱▱▱Ⓡ▱▱▱▱▰"
     elif 50 <= umm < 60:
-        bar = "Ⓡ▰▱▱▱▱▱▱▱▰"
+        bar = "▰▱▱▱▱Ⓡ▱▱▱▰"
     elif 50 <= umm < 70:
-        bar = "Ⓡ▰▱▱▱▱▱▱▱▰"
+        bar = "▰▱▱▱▱▱Ⓡ▱▱▰"
     else:
-        bar = "Ⓡ▰▱▱▱▱▱▱▱▰"
+        bar = "▰▱▱▱▱▱▱▱▰Ⓡ"
 
     buttons  = [
 
@@ -323,19 +323,19 @@ def stream_markup_timer2(_, chat_id, played, dur):
     if 0 < umm <= 40:
         bar = "Ⓡ▰▱▱▱▱▱▱▱▰"
     elif 10 < umm < 20:
-        bar = "Ⓡ▰▱▱▱▱▱▱▱▰"
+        bar = "▰Ⓡ▱▱▱▱▱▱▱▰"
     elif 20 < umm < 30:
-        bar = "Ⓡ▰▱▱▱▱▱▱▱▰"
+        bar = "▰▱Ⓡ▱▱▱▱▱▱▰"
     elif 30 <= umm < 40:
-        bar = "Ⓡ▰▱▱▱▱▱▱▱▰"
+        bar = "▰▱▱Ⓡ▱▱▱▱▱▰"
     elif 40 <= umm < 50:
-        bar = "Ⓡ▰▱▱▱▱▱▱▱▰"
+        bar = "▰▱▱▱Ⓡ▱▱▱▱▰"
     elif 50 <= umm < 60:
-        bar = "Ⓡ▰▱▱▱▱▱▱▱▰"
+        bar = "▰▱▱▱▱Ⓡ▱▱▱▰"
     elif 50 <= umm < 70:
-        bar = "Ⓡ▰▱▱▱▱▱▱▱▰"
+        bar = "▰▱▱▱▱▱Ⓡ▱▱▰"
     else:
-        bar = "Ⓡ▰▱▱▱▱▱▱▱▰"
+        bar = "▰▱▱▱▱▱▱▱▰Ⓡ"
 
 
     buttons = [
@@ -491,19 +491,19 @@ def panel_markup_4(_, vidid, chat_id, played, dur):
     if 0 < umm <= 40:
         bar = "Ⓡ▰▱▱▱▱▱▱▱▰"
     elif 10 < umm < 20:
-        bar = "Ⓡ▰▱▱▱▱▱▱▱▰"
+        bar = "▰Ⓡ▱▱▱▱▱▱▱▰"
     elif 20 < umm < 30:
-        bar = "Ⓡ▰▱▱▱▱▱▱▱▰"
+        bar = "▰▱Ⓡ▱▱▱▱▱▱▰"
     elif 30 <= umm < 40:
-        bar = "Ⓡ▰▱▱▱▱▱▱▱▰"
+        bar = "▰▱▱Ⓡ▱▱▱▱▱▰"
     elif 40 <= umm < 50:
-        bar = "Ⓡ▰▱▱▱▱▱▱▱▰"
+        bar = "▰▱▱▱Ⓡ▱▱▱▱▰"
     elif 50 <= umm < 60:
-        bar = "Ⓡ▰▱▱▱▱▱▱▱▰"
+        bar = "▰▱▱▱▱Ⓡ▱▱▱▰"
     elif 50 <= umm < 70:
-        bar = "Ⓡ▰▱▱▱▱▱▱▱▰"
+        bar = "▰▱▱▱▱▱Ⓡ▱▱▰"
     else:
-        bar = "Ⓡ▰▱▱▱▱▱▱▱▰"
+        bar = "▰▱▱▱▱▱▱▱▰Ⓡ"
         
     buttons = [
         [
